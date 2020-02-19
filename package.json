@@ -1,0 +1,19 @@
+{
+  "name": "nodejs--homework",
+  "version": "1.0.0",
+  "description": "Nodejs--Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jineous27/Nodejs--Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jineous27/Nodejs--Homework/issues"
+  },
+  "homepage": "https://github.com/jineous27/Nodejs--Homework#readme"
+}
